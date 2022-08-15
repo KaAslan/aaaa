@@ -16,6 +16,7 @@ Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim 
 kullanırız.
 
 not: git log --oneline--> commitlerimdeki yani versiyonlarımdaki durumu gösterir.
+öğrendim.
  */
 
     }
